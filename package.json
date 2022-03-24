@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node server/index.js",
     "heroku-postbuild": "cd server && npm install && npm run build"
-}
-  },
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cap811/BlogReact.git"
