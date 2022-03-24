@@ -4,7 +4,9 @@
   "description": "Blog application written in JavaScript using MongoDB, Express, React and NodeJS frameworks. ",
   "main": "index.js",
   "scripts": {
-    "start": "npm install server && node server/index.js"
+    "start": "node server/index.js",
+    "heroku-postbuild": "cd server && npm install && npm run build"
+}
   },
   "repository": {
     "type": "git",
