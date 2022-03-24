@@ -4,7 +4,7 @@
   "description": "Blog application written in JavaScript using MongoDB, Express, React and NodeJS frameworks. ",
   "main": "index.js",
   "scripts": {
-    "start": ""
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
