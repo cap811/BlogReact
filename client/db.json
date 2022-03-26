@@ -11,6 +11,12 @@
       "body": "Hello...",
       "author": "Cap",
       "id": 2
+    },
+    {
+      "title": "TEST BLOG",
+      "body": "HELLOW HOW ARE YOU TODAY? WANNA BEER DUDE&",
+      "author": "Niko",
+      "id": 3
     }
   ]
 }
