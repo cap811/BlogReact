@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "Hello...",
+      "author": "Nick",
+      "id": 1
+    },
+    {
+      "title": "Second Blog",
+      "body": "Hello...",
+      "author": "Cap",
+      "id": 2
+    },
+    {
+      "title": "TEST BLOG",
+      "body": "HELLOW HOW ARE YOU TODAY? WANNA BEER DUDE&",
+      "author": "Niko",
+      "id": 3
+    }
+  ]
+}
